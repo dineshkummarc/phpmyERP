@@ -1,1 +1,2 @@
-# Enterprise-Resource-Planning
+# phpmyERP
+formerly Enterprise-Resource-Planning
